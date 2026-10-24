@@ -53,6 +53,7 @@ I'm a 2025 Mechanical Engineering graduate transitioning into IT, with hands-on 
 
 - 💻 GitHub: [My Repositories](https://github.com/sekhartrimurthulu)
 - 💼 LinkedIn: Add your LinkedIn profile URL here
+- 💻 portfolio: ([https://sekhar-addala-portfolio.netlify.app](https://sekhar-addala-portfolio.netlify.app/))
 
 ---
 
